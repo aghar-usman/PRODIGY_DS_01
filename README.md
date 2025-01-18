@@ -19,4 +19,4 @@ This project leverages Python’s `pandas` and `matplotlib` libraries to analyze
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git](https://github.com/aghar-usman/PRODIGY_DS_01.git
+   git clone git clone https://github.com/aghar-usman/PRODIGY_DS_01.git
